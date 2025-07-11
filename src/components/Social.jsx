@@ -21,7 +21,7 @@ export default function Social() {
               })} scale-[80%]`}
               onClick={() => {
                 window?.open(
-                  "https://www.linkedin.com/in/abdulloh-nurmukhammedov/",
+                  "https://www.linkedin.com/in/AbdullohNurmukhammedov/",
                   "_blank"
                 );
               }}
@@ -43,7 +43,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://t.me/stackmasterr", "_blank");
+                window?.open("https://t.me/AbdullohNurmukhammedov", "_blank");
               }}
             >
               <svg
@@ -72,7 +72,7 @@ export default function Social() {
               })} scale-[80%]`}
               onClick={() => {
                 window?.open(
-                  "mailto:abdullohnurmukhammedov97@gmail.com?subject=Nurmukhammedov Abdullohga xat"
+                  "mailto:nurmukhammedov.dev@gmail.com?subject=Nurmukhammedov Abdullohga xat"
                 );
               }}
             >
@@ -101,7 +101,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://github.com/AbdullohwebS", "_blank");
+                window?.open("https://github.com/AbdullohNurmukhammedov", "_blank");
               }}
             >
               <GitHubLogoIcon />
@@ -121,7 +121,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://ilhomlandim.uz/resume.pdf", "_blank");
+                window?.open("/resume.pdf", "_blank");
               }}
             >
               <BriefcaseBusiness />

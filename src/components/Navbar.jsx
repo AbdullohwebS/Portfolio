@@ -1,5 +1,5 @@
 "use client";
-import {  HamburgerMenuIcon } from "@radix-ui/react-icons";
+import {  Cross1Icon, HamburgerMenuIcon } from "@radix-ui/react-icons";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 
