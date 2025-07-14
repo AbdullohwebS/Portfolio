@@ -1,7 +1,7 @@
 import Social from "./Social";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
 import { buttonVariants } from "./ui/button";
-import MeImg from "/public/favicon.jpg";
+import MeImg from "/public/me.jpg";
 import Link from "next/link";
 
 export default function Me() {
